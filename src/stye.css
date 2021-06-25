@@ -1,0 +1,9 @@
+body{
+    border:solid 1px black;
+    max-width:100vw;
+    text-align: center;
+
+}
+.title-red{text-align: center;
+    color: red;
+}
